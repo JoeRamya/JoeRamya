@@ -1,4 +1,4 @@
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFstZyRKOsNWK_wCvbnxqeHCB600ZTwclFmw&usqp=CAU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2023-10-26-5-tips-for-making-your-github-profile-page-accessible%2F&psig=AOvVaw0ga21aQn15SwIOeFo0OgZL&ust=1709822775153000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjp4qvw34QDFQAAAAAdAAAAABAE)">
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFstZyRKOsNWK_wCvbnxqeHCB600ZTwclFmw&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Ramya</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
