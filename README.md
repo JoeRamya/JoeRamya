@@ -1,6 +1,5 @@
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFstZyRKOsNWK_wCvbnxqeHCB600ZTwclFmw&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsE-xMlz4-hyOoWKQm1_fhTSo3vwxItgk5Q&usqp=CAU)">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFstZyRKOsNWK_wCvbnxqeHCB600ZTwclFmw&usqp=CAU">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFstZyRKOsNWK_wCvbnxqeHCB600ZTwclFmw&usqp=CAU">
+<img src="https://leviarista.github.io/github-profile-header-generator/images/decorations/code.png">
 
 <h1 align="center">Hi 👋, I'm Ramya</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
